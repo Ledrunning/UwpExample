@@ -4,6 +4,7 @@ using Windows.UI;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using UwpExample.Abstractions;
+using UwpExample.Controls.UserControls.View;
 
 namespace UwpExample.Services
 {
